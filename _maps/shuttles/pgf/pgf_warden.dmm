@@ -575,9 +575,6 @@
 	},
 /turf/open/floor/engine/hull,
 /area/ship/engineering/engine)
-"Sv" = (
-/turf/closed/wall/r_wall/rust,
-/area/ship/engineering/engine)
 "SL" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
 	dir = 8
@@ -720,7 +717,7 @@ XD
 bs
 Ha
 Ha
-Sv
+YX
 rZ
 Kl
 Kl
@@ -753,7 +750,7 @@ Gy
 Xm
 lU
 Lu
-Sv
+YX
 Jn
 Jn
 YX
@@ -790,7 +787,7 @@ YX
 wr
 YX
 YX
-Sv
+YX
 bp
 Um
 NK
@@ -873,7 +870,7 @@ oE
 (14,1,1) = {"
 Ha
 YX
-Sv
+YX
 eO
 uA
 Qk
@@ -893,7 +890,7 @@ He
 XT
 XT
 XT
-Sv
+YX
 YX
 Ha
 Ha
